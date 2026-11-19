@@ -1,0 +1,56 @@
+# --- Proyectos Unity (Objeto3D/, RecorridoVR/, ...) ---
+# Carpetas que Unity regenera: pesan varios GB
+/*/[Ll]ibrary/
+/*/[Tt]emp/
+/*/[Oo]bj/
+/*/[Bb]uild/
+/*/[Bb]uilds/
+/*/[Ll]ogs/
+/*/[Uu]ser[Ss]ettings/
+/*/[Mm]emoryCaptures/
+/*/[Rr]ecordings/
+
+# Archivos generados por Visual Studio / Rider
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports y builds
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+
+# Descargas originales: ya están copiadas dentro de Objeto3D/Assets
+# (se obtienen de los enlaces de Drive del CLAUDE.md)
+/Standard Assets/
+/Materiales_Objetos3D-*/
+
+# Entregables generados
+LAB_U5_GRUPO_*.zip
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Instrucciones locales para Claude Code
+CLAUDE.md
