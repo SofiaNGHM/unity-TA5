@@ -5,7 +5,7 @@ using UnityEngine;
 
 /// <summary>
 /// TA5 - Parte 1. Genera el relieve, las texturas y los árboles del objeto "Terreno".
-/// Uso: menú TA5 → Generar terreno (con la escena Escena_FPS abierta).
+/// Uso: menú TA5 → Generar terreno (con la escena Escena_VR abierta).
 /// Resultado: terreno de 200 x 200 m, centro plano para la calle y cerros alrededor,
 /// pasto en lo plano, pasto rocoso en las laderas y árboles SpeedTree en los cerros.
 /// </summary>

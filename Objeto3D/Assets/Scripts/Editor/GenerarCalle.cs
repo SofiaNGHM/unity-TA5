@@ -8,7 +8,7 @@ using UnityEngine;
 /// pista, veredas, casas a ambos lados y autos sobre la pista.
 /// Todos los objetos usan los materiales de Assets/Colores (criterio 2)
 /// y tienen colliders para que el FPSController no los atraviese.
-/// Uso: menú TA5 → Generar calle (con Escena_FPS abierta). Se puede repetir: reemplaza la calle anterior.
+/// Uso: menú TA5 → Generar calle (con Escena_VR abierta). Se puede repetir: reemplaza la calle anterior.
 /// </summary>
 public static class GenerarCalle
 {
